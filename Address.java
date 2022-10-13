@@ -1,4 +1,5 @@
 package day28;
+
 public class Address {
 	
 	String city;
