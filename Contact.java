@@ -1,5 +1,6 @@
 package day28;
 
+
 public class Contact {
 	
 	String firstName;
